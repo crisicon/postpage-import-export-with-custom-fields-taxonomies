@@ -1,0 +1,28 @@
+#pp_wpspin_export{
+    white-space: nowrap;
+    background: #007cba;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    outline: 1px solid transparent;
+    font-weight: 400;
+    font-size: 13px;
+    margin: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-appearance: none;
+    transition: box-shadow .1s linear;
+    height: 36px;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 6px 12px;
+    border-radius: 2px;
+}
+#pp_wpspin_export:hover{
+    background: #006ba1;
+    color: #fff;
+}
+.pp_wpspin_download_box_wrap {
+    width: 50%;
+    display: inline-block;
+}
