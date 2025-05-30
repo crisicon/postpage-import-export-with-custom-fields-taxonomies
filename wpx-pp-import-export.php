@@ -1,18 +1,20 @@
 <?php
 /**
- * Plugin Name: Post/Page import, export with custom fields & taxonomies
- * Plugin URI:
- * Description: This plugin adds Export and Import buttons for posts/pages, enabling JSON exports of post details and simplifying content addition.
- * Version:           2.0.0
- * Author:            WPSpins
- * Author URI:        http://wpspins.com/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wpx-ppexport
- * Domain Path:       /languages
- *
- * @package    wpx-pp-import-export
+ * Plugin Name: Post/Page Import Export with Custom Fields & Taxonomies (Maintained Fork)
+ * Plugin URI: https://github.com/crisicon/postpage-import-export
+ * Description: Maintained fork of WPSpins’ plugin to export and import post/page content via JSON, including metadata and taxonomies. Reviewed and version-controlled for production use.
+ * Version: 2.0.0
+ * Author: WPSpins (original), maintained by Cris Iconomu
+ * Author URI: https://crisicon.com
+ * License: GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * Text Domain: wpx-ppexport
+ * Domain Path: /languages
+ * GitHub Plugin URI: https://github.com/crisicon/postpage-import-export
+ * GitHub Branch: main
+ * Forked from: https://wordpress.org/plugins/postpage-import-export-with-custom-fields-taxonomies/
  */
+
 
  use Inc\Base\PP_IMPORT_EXPORT_WPSPIN_Activate;
  use Inc\Base\PP_IMPORT_EXPORT_WPSPIN_Deactivate;
