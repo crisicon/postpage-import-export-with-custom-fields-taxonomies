@@ -1,16 +1,14 @@
 <?php
 /**
- * Plugin Name: Post/Page Import Export with Custom Fields & Taxonomies (Maintained Fork)
- * Plugin URI: https://github.com/crisicon/postpage-import-export
- * Description: Maintained fork of WPSpins’ plugin to export and import post/page content via JSON, including metadata and taxonomies. Reviewed and version-controlled for production use.
+ * Plugin Name: WPPIE – Post/Page Import Export (Maintained by Cris Iconomu)
+ * Plugin URI: https://github.com/crisicon/wppie
+ * Description: Secure, audited fork for importing/exporting posts and pages via JSON. Supports featured images, taxonomies, and custom fields.
  * Version: 2.0.0
  * Author: WPSpins (original), maintained by Cris Iconomu
  * Author URI: https://crisicon.com
- * License: GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain: wpx-ppexport
+ * Text Domain: wppie
  * Domain Path: /languages
- * GitHub Plugin URI: https://github.com/crisicon/postpage-import-export
+ * GitHub Plugin URI: https://github.com/crisicon/wppie
  * GitHub Branch: main
  * Forked from: https://wordpress.org/plugins/postpage-import-export-with-custom-fields-taxonomies/
  */
