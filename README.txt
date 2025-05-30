@@ -1,12 +1,19 @@
-=== Post/Page Copying Tool  to Export and Import post/page for Cross site Migration ===
-Contributors: wpspin
-Donate link: 
-Tags: Post, Page, Export, post export, page export
+=== Post/Page Export-Import Tool (Maintained Fork) ===
+Contributors: crisicon
+Forked from: wpspin
+Tags: Post, Page, Export, Import, post export, page export, JSON, cross-site migration
 Requires at least: 4.0.0
 Tested up to: 6.5.0
 Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This is a maintained fork of the original plugin by @wpspin, providing reliable post and page export/import via JSON, including featured image, categories, tags, and custom fields.
+
+Ideal for cross-site content migration workflows, this version is reviewed and maintained by Cris Iconomu and team to ensure clean code and update control.
+
+Original plugin: https://wordpress.org/plugins/postpage-import-export-with-custom-fields-taxonomies/
+
 
 This plugin adds Export and Import buttons for posts/pages, enabling JSON exports of post details and simplifying content addition.
 
